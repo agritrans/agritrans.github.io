@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
     color: #006600;
    }
-a:active {
+a:focus {
     color: #000900;
 }
 h1 {
