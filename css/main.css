@@ -12,7 +12,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+a:link {
     text-decoration: none;
     color: #999;
 }
@@ -21,7 +21,7 @@ a:hover {
     color: #006600;
     
 }
-a:focus {
+a:active {
     color: #000000;
 }
 h1 {
