@@ -21,7 +21,7 @@ a:hover {
     color: #006600;
     
 }
-a:active {
+a:focus {
     color: #000000;
 }
 h1 {
