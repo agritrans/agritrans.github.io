@@ -50,6 +50,6 @@ There are many ways to contribute:
 ### **COMMUNICATION CHANELS**
 During the Mozilla Global Sprint you can reach us here:
   
-Twitter: [@SolomonMekonne8](https://twitter.com/ SolomonMekonne8)   
+Twitter: [@SolomonMekonne8](https://twitter.com/SolomonMekonne8)   
 Github:  @solomon3m 
 
