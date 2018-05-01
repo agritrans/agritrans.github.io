@@ -1,7 +1,7 @@
 # OpenAgri-translation
 Translating open agricultural research to local language project
 
-Empowering farmers and policy makers with making openly accessible agricultural research in local language.
+Empowering farmers and policy makers with making openly accessible agricultural research in local language.Please checkout Please check out our <a href="https://agritrans.github.io">website</a>
 
 You are warmly welcome!
 
