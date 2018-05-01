@@ -2,7 +2,7 @@
 
 Thank you very much for your interest to contribute in Translating Open Agricultural research to local language.
 When contributing to the project, please first discuss the addition or change you wish to make via the [issues page]( https://github.com/agritrans/agritrans.github.io/issues/new), email, or any other method with the other members of the project.
-Please note that we have a [code of conduct](CONTRIBUTING.md) that you should follow in all your interactions with the project.
+Please note that we have a [code of conduct](CONTRIBUTING.md) that you should follow in all your interactions with the project.Please visit [issue #6](https://github.com/agritrans/agritrans.github.io/issues/6) to learn more about areas of contributions.
 
 You are welcome to contribute in the sections. If you want you can jump straight to one of the sections below, or just scroll down to find out more 😃
 
