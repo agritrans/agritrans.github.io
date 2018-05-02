@@ -43,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+#nav #current {
+color:red; 
+}
+#nav #current:active, #nav #current:focus, #nav #current:hover {
+color: #006600;	
+}
