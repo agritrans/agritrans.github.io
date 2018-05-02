@@ -51,5 +51,5 @@ There are many ways to contribute:
 During the Mozilla Global Sprint you can reach us here:
   
 Twitter: [@SolomonMekonne8](https://twitter.com/SolomonMekonne8)   
-Github:  [@agritrans ] (https://github.com/agritrans/
+Github:  [@agritrans ] (https://github.com/agritrans/)
 
