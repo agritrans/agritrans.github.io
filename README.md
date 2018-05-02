@@ -21,7 +21,7 @@ The project manager , Solomon Mekonnen is an Academic Staff with rank of Lecture
  
 Do you want to help?
 
-We really need help from different experts. If you would like to help us in translating open agricultural research output to any of Ethiopian languages, you are kindly welcome. We also require expertise in fund raising for the project. Your technical assistance in building the online platform to make available the translations is also greatly appreciated. Do you have any other idea to help us? We warmly welcome any assistance from you.  
+We really need help from different experts. If you would like to help us in translating open agricultural research output to any of Ethiopian languages, you are kindly welcome. We also require expertise in fund raising for the project. Your technical assistance in building the online platform to make available the translations is also greatly appreciated. Do you have any other idea to help us? We warmly welcome any assistance from you.  Please visit current available <a href="https://github.com/agritrans/agritrans.github.io/issues/6">Issues</a> for help.
 
 Join this project
 
