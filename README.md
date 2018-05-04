@@ -1,4 +1,6 @@
 # OpenAgri-translation
+
+[![Join the chat at https://gitter.im/agritrans-github-io/Lobby](https://badges.gitter.im/agritrans-github-io/Lobby.svg)](https://gitter.im/agritrans-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Translating open agricultural research to local language project
 
 Empowering farmers and policy makers with making openly accessible agricultural research in local language.Please checkout our <a href="https://agritrans.github.io">website</a>
