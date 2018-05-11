@@ -28,7 +28,7 @@ We really need help from different experts. If you would like to help us in tran
 
 ## Join this project
 
-We hope you will join this project and help us in whatever way you can assist. Please check out our <a href="https://github.com/agritrans/agritrans.github.io/blob/master/Contributing">contributor’s guideline</a> and <a href="https://github.com/solomon3m/OpenAgri-translation/blob/master/ROADMAP.md">roadmap</a> to start contributing to this project. 
+We hope you will join this project and help us in whatever way you can assist. Please check out our <a href="https://github.com/agritrans/agritrans.github.io/blob/master/Contributing.md">contributor’s guideline</a> and <a href="https://github.com/agritrans/agritrans.github.io/blob/master/ROADMAP.md">roadmap</a> to start contributing to this project. 
 
 ## Get in touch
 
